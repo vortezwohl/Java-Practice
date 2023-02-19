@@ -1,3 +1,5 @@
+//vortezwohl 
+//calculate the perimeter and area of an n-regular-polygon
 import java.util.Scanner;
 public class Nrepolygon
 {
